@@ -1,1 +1,2 @@
-console.log("hello")
+var price=12;
+console.log(price);
